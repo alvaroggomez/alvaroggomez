@@ -1,6 +1,6 @@
 # Hola, soy Álvaro
 
-## Proyectos personales
+## Proyectos personales ☝️🤓
 - [Repositorio](https://github.com/alvaroggomez/proyectoALS)
 
 ## Otros proyectos
