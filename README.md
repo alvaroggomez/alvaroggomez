@@ -1,7 +1,7 @@
-# Hola, soy Álvaro
-
-## Proyectos personales ☝️🤓
-- [Repositorio](https://github.com/alvaroggomez/proyectoALS)
-
+## Proyectos personales 🧐
+- *Pipeline ETL*&nbsp;&nbsp; [👉📂](./proyectoALS)
+- *Pipeline ETL* [📂](./proyectoALS)
+  
 ## Otros proyectos
 - [Repositroio] 
+
